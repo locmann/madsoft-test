@@ -20,13 +20,12 @@
       "data/*": ["data/*"],
       "features/*": ["features/*"],
       "hooks/*": ["hooks/*"],
-      "pages/*": ["pages/*"],
-      "routes/*": ["routes/*"],
       "services/*": ["services/*"],
       "styles/*": ["styles/*"],
       "ui/*": ["ui/*"],
       "utils/*": ["utils/*"],
-      "components/*": ["components/*"]
+      "components/*": ["components/*"],
+      "store/*":  ["store/*"],
     },
 
     /* Linting */

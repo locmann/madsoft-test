@@ -1,0 +1,12 @@
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.answer {
+  border: none;
+  background-color: transparent;
+  align-self: flex-start;
+  padding: 0.8rem;
+}
